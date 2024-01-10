@@ -4,7 +4,7 @@ This project is a simulation of our solar system. It uses the Pygame library to 
 
 ## Features
 
-- Graphical representation of the sun and five closest planets (Mercury, Venus, Earth, Mars).
+- Graphical representation of the sun and four closest planets (Mercury, Venus, Earth, Mars).
 - Realistic movement of the planets due to gravitational forces.
 - Display of the distance of each planet from the sun.
 
